@@ -91,4 +91,28 @@ To grow as a DevOps Engineer by designing secure cloud infrastructure, automatin
 
 ---
 
+## 📈 GitHub Profile Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ShahzaibGhaznavi&show_icons=true&include_all_commits=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ShahzaibGhaznavi&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibGhaznavi&layout=compact&langs_count=6&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+
 ⭐ *Always learning, building, automating, and improving through hands-on practice.*
